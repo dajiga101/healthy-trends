@@ -1,6 +1,0 @@
-from monkeylearn import MonkeyLearn
-consumer_key='eHZg6GLXDYvkqVr8fEOIdjX8h'
-consumer_secret='YSHFvRHwVIAnUknURTkixFR8uYK6kUJ1dK8RYX03zyCTaJdD3I'
-access_token='1092475378894016525-jKf8PhQthnVOfnCKFBNh8WRqYta1SH'
-access_token_secret='atpP8VrWxIT3lUmjUkN9QXyz4g9oZHuRG3piiJ2yZbpND'
-ml = MonkeyLearn('c9fd6cb46ad6fdd3ce1f3ebfd2dd709988b2269f')
