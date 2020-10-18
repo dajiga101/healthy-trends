@@ -4,7 +4,7 @@ Proposed Twitter Feature that will notify users join healthy conversations on pr
 ## Tools/Technologies
 - Python
 - Figma
-- Adobe XD
+- Canva
 - Monkey Learn API
 - Twitter API
 
