@@ -17,8 +17,8 @@ users=api.get_user()
 for user in users:
     print(user.text)
 '''
-tweets=api.search('Chelsea',count=1)
-def search(tweets):
+def search(word):
+    tweets=api.search(word,count=1)
     for tweet in tweets:
         s = tweet.entities
         print(tweet.id)
